@@ -324,10 +324,7 @@ section{
     outline: var(--outline-hover);
     outline-offset: 0rem;
     background-color: red;
-    width:1500px;
-    border-radius: 50px;
-    font-size:30px;
-    height:70px;
+    border-radius: 10px;
     
 }
 
