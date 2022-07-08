@@ -323,9 +323,6 @@ section{
 .features .box-container .box:hover{
     outline: var(--outline-hover);
     outline-offset: 0rem;
-    background-color: red;
-    border-radius: 10px;
-    
 }
 
 .features .box-container .box img{
